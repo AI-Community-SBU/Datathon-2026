@@ -21,6 +21,7 @@ Your goal is not to build a model first. Your goal is to ask a strong question f
 
 - Sample datasets for each track
 - Starter notebooks in `starter-notebooks/`
+- Submission requirements in `submission-guidelines/README.md`
 - A workflow you can adapt to your own question and method
 
 Current starter notebook:
