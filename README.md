@@ -21,6 +21,7 @@ Your goal is not to build a model first. Your goal is to ask a strong question f
 
 - Sample datasets for each track
 - Starter notebooks in `starter-notebooks/`
+- Curated Kaggle notebook tracks in [`starter-notebooks/KaggleNotebook.md`](starter-notebooks/KaggleNotebook.md)
 - Submission requirements in `submission-guidelines/README.md`
 - A workflow you can adapt to your own question and method
 
@@ -46,10 +47,6 @@ Here are the dataset links provided for each track.
 
 ### Education
 
-- Collegeboard trends in college pricing
-- Collegeboard trends in financial aid
-- Kaggle Education and Unemployment
-- Kaggle Education in India
 - [Potential data: NCES](https://nces.ed.gov/)
 - [NCES ECLS](https://nces.ed.gov/ecls/)
 - [NSSE BCSSE](https://nsse.indiana.edu/bcsse/index.html)
@@ -91,7 +88,6 @@ Here are the dataset links provided for each track.
 
 ### Sustainability & Critical Infrastructure
 
-- Mapping Your Infrastructure: Datasets for Infrastructure Identification | CISA
 - [Data.gov electrical grid datasets](https://catalog.data.gov/dataset?q=electrical+grid)
 - [Energy Demand for Buildings (BuildingsBench)](https://catalog.data.gov/dataset/buildingsbench-a-large-scale-dataset-of-900k-buildings-and-benchmark-for-short-term-load-f)
 - [Hourly Energy Consumption](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)

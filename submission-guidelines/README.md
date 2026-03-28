@@ -96,6 +96,12 @@ Before submitting, confirm:
 6. Team information is complete and correct
 7. Uploaded files use clear team-based file names
 
+## Judge Materials
+
+For event judges, use the official scoring sheet in:
+
+- `submission-guidelines/JUDGING-RUBRIC.md`
+
 ## Evaluation Alignment Tips
 
 To maximize scoring quality:
