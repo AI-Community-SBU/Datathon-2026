@@ -1,4 +1,7 @@
-# Kaggle Notebooks by Track
+# Sample Notebooks from EBoard
+- [Sample Notebook Drive](https://drive.google.com/drive/folders/1ZaR9OADaD1yT9jUBASrnOl1cgtKGA1_U?usp=drive_link)
+
+# Other Kaggle Notebooks by Track
 
 ## Track 1: Healthcare Analytics
 - [Healthcare Dataset EDA](https://www.kaggle.com/code/hainescity/healthcare-dataset-eda)
