@@ -74,7 +74,6 @@ Here are the dataset links provided for each track.
 ### Finance & Economics
 
 - [Coca-Cola Complete updated stocks Dataset](https://www.kaggle.com/datasets/matiflatif/coca-cola-complete-stocks-dataweekly-updated)
-- [Bitcoin Historical Data](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)
 - [FRED Economic Data](https://fred.stlouisfed.org/series/UNRATE)
 - [NVIDIA Stocks Data 2025](https://www.kaggle.com/datasets/meharshanali/nvidia-stocks-data-2025)
 - [Company Bankruptcy Prediction](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)
